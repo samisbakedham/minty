@@ -23,7 +23,7 @@
   "dependencies": {
     "@openzeppelin/contracts": "^3.4.1",
     "chalk": "^4.1.0",
-    "cids": "^1.1.6",
+    "cids": "^1.1.9",
     "commander": "^7.1.0",
     "concurrently": "^6.0.0",
     "getconfig": "^4.5.0",
