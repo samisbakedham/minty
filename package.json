@@ -29,7 +29,7 @@
     "getconfig": "^4.5.0",
     "go-ipfs": "^0.8.0",
     "inquirer": "^8.0.0",
-    "ipfs-http-client": "^49.0.4",
+    "ipfs-http-client": "^50.0.0",
     "it-all": "^1.0.5",
     "json-colorizer": "^2.2.2",
     "multiaddr": "^8.1.2"
